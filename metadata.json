@@ -1,0 +1,8 @@
+{
+  "name": "AurisAtlas",
+  "description": "Interactive 3D ear anatomy atlas, otoscopic pathology visualizer, clinical examination modules, and diagnostic quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
